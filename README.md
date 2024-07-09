@@ -76,7 +76,7 @@ ecommerce/
 │   ├── asgi.py
 │   └── wsgi.py
 │
-├── users/
+├── user_services/
 │   ├── migrations/
 │   ├── __init__.py
 │   ├── admin.py
@@ -87,7 +87,7 @@ ecommerce/
 │   ├── urls.py
 │   └── views.py
 │
-├── store/
+├── store_services/
 │   ├── migrations/
 │   ├── __init__.py
 │   ├── admin.py
